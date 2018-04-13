@@ -6,3 +6,5 @@ Ans: For example if a developer made some changes in the GitHub repository. And 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Ans: forks clones the others repo to my github repo without cloning it to locally. Cloning the forks will clone the forked repo that I clone from others and it will not effect the fork repo. When cloning the the repo it automatically created the origin branch.
+
+Added this line just for test
